@@ -50,6 +50,7 @@ public class IgnoreCommand implements BlabberCommand {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
+
 		
 	}
 
